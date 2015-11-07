@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void translate () {
-	printf ("Han: Chewie said hi. \n");
+	printf ("Han: Chewie said hi.");
 }
